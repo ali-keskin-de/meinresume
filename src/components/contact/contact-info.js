@@ -9,25 +9,25 @@ const ContactInfo = () => {
         <br />
         145 Murphy Canyon Rd.
         <br />
-        San Diego CA 2028{" "}
+        Essen DE 2022{" "}
       </p>
       <p className="text-3 mb-1">
         <span className="text-primary text-4 me-2">
           <i className="fas fa-phone"></i>
         </span>
-        (060) 444 434 444
+        (+49) 176 637 408 73
       </p>
       <p className="text-3 mb-1">
         <span className="text-primary text-4 me-2">
           <i className="fas fa-fax"></i>
         </span>
-        (060) 555 545 555
+        (+49) 176 637 408 73
       </p>
       <p className="text-3 mb-4">
         <span className="text-primary text-4 me-2">
           <i className="fas fa-envelope"></i>
         </span>
-        chat@simone.com
+        alkeskn85@gmail.com
       </p>
       <h2 className="mb-3 text-5 text-uppercase">Follow Me</h2>
       <ul className="social-icons justify-content-center justify-content-md-start">

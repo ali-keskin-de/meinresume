@@ -11,37 +11,50 @@ const About = () => {
         <div className="row gy-5">
           <div className="col-lg-7 col-xl-8 text-center text-lg-start">
             <h2 className="text-7 fw-600 mb-3">
-              I'm <span className="text-primary">Simone Olivia,</span> a Web
+              I'm <span className="text-primary">Ali Keskin,</span> a Web
               Developer
             </h2>
             <p>
-              I help you build brand for your business at an affordable price.
-              Thousands of clients have procured exceptional results while
-              working with our dedicated team. when an unknown printer took a
-              galley of type and scrambled it to make a type specimen book.
+              I have solid backend software development experience with more
+              than 4 years working on the backend side with the projects I have
+              done along with the intense bootcamp training. With the projects I
+              have carried out, I have expanded my problem-solving experience in
+              the field of software development. I have a detail oriented nature
+              and work hard to ensure my work is complete and complete. Through
+              my previous professional experience, I have also gained experience
+              in working in a team. I have a nature that loves to learn new
+              things and likes to share my experiences generously.I have solid
+              backend software development experience with more than 4 years
+              working on the backend side with the projects I've done along with
+              the intense bootcamp training have performed. With the projects I
+              have carried out, I have expanded my problem-solving experience in
+              the field of software development. I have a detail oriented nature
+              and work hard to ensure my work is complete and complete. Through
+              my previous professional experience, I have also gained experience
+              in working in a team. I have a nature that loves to learn new
+              things and likes to share my experiences generously.
             </p>
             <p>
               Delivering work within time and budget which meets client`s
-              requirements is our moto. Lorem Ipsum has been the industry's
-              standard dummy text ever when an unknown printer took a galley.
+              requirements is our moto.
             </p>
           </div>
           <div className="col-lg-5 col-xl-4">
             <div className="ps-lg-4">
               <ul className="list-style-2">
                 <li className="">
-                  <span className="fw-600 me-2">Name:</span>Simone Olivia
+                  <span className="fw-600 me-2">Name:</span>Ali Keskin
                 </li>
                 <li className="">
                   <span className="fw-600 me-2">Email:</span>
-                  <a href="mailto:chat@simone.com">chat@simone.com</a>
+                  <a href="mailto:chat@simone.com">alkeskn85@gmail.com</a>
                 </li>
                 <li className="">
-                  <span className="fw-600 me-2">Age:</span>28
+                  <span className="fw-600 me-2">Age:</span>35
                 </li>
                 <li className="border-0">
-                  <span className="fw-600 me-2">From:</span>Los Angeles,
-                  California
+                  <span className="fw-600 me-2">From:</span>Essen,
+                  Deutschland
                 </li>
               </ul>
               <a href="#" className="btn btn-primary rounded-pill">

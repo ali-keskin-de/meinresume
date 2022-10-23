@@ -18,13 +18,13 @@ const Intro = () => {
                 <h1 className="text-white text-18">
                   <TypeAnimation
                     sequence={[
-                      "I'm Simone Olivia",
+                      "I'm Ali Keskin",
                       1000, // Waits 1s
                       "I'm a Freelancer.",
                       1000, // Waits 1s
-                      "I'm a Photographer.",
+                      "I'm a Full-Stack Java Developer.",
                       1000, // Waits 1s
-                      "I'm a Designer.",
+                      "I'm a Full-Stack Java Developer.",
                       () => {
                         console.log("Done typing!"); // Place optional callbacks anywhere in the array
                       },
@@ -40,7 +40,7 @@ const Intro = () => {
                   <span className="typed"></span>
                 </h2>
                 <p className="text-5 text-light mb-4">
-                  based in Los Angeles, California.
+                  NRW in Essen, Deutschland.
                 </p>
                 <a
                   href="#contact"
