@@ -60,6 +60,7 @@ const Resume = () => {
             <Skill name="Java" value="90" />
             <Skill name=" Spring Boot" value="80" />
             <Skill name=" Spring MVC" value="80" />
+            <Skill name="Junit test" value="70" />
             <Skill name=" SQL" value="80" />
             <Skill name="Hibernat" value="75" />
             <Skill name="MongoDb" value="80" />
@@ -71,6 +72,7 @@ const Resume = () => {
             <Skill name="Bootstrap" value="99" />
             <Skill name="HTML/CSS" value="95" />
             <Skill name="Javascript" value="80" />
+            <Skill name="Git-Github" value="100" />
           </div>
         </div>
 
